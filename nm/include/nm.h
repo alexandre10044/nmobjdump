@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2019
 ** nm.h
 ** File description:
-** alexandre.frydman@epitech.eu
+**
 */
 
 #ifndef NM_H_
