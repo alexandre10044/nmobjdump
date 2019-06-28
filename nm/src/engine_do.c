@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2019
 ** engine_do.c
 ** File description:
-** alexandre.frydman@epitech.eu
+** 
 */
 
 #include <stdlib.h>
