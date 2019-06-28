@@ -2,7 +2,6 @@
 ** EPITECH PROJECT, 2019
 ** engine_header.c
 ** File description:
-** alexandre.frydman@epitech.eu
 */
 
 #include <stdio.h>
