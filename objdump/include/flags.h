@@ -2,7 +2,6 @@
 ** EPITECH PROJECT, 2019
 ** flags.h
 ** File description:
-** alexandre.frydman@epitech.eu
 */
 
 #ifndef FLAGS_H_
