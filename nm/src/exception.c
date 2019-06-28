@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2019
 ** exception.c
 ** File description:
-** alexandre.frydman@epitech.eu
+** 
 */
 
 #include <stdlib.h>
