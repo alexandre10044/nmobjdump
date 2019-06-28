@@ -2,7 +2,6 @@
 ** EPITECH PROJECT, 2019
 ** engine_objdump.c
 ** File description:
-** alexandre.frydman@epitech.eu
 */
 
 #include <unistd.h>
