@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2019
 ** main.c
 ** File description:
-** alexandre.frydman@epitech.eu
+** 
 */
 
 #include <sys/types.h>
