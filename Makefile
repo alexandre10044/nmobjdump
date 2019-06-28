@@ -2,7 +2,7 @@
 ## EPITECH PROJECT, 2019
 ## Makefile
 ## File description:
-## alexandre.frydman@epitech.eu
+## 
 ##
 
 NM_SRC		=	nm/src/engine_add.c \
