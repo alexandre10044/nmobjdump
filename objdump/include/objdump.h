@@ -2,7 +2,6 @@
 ** EPITECH PROJECT, 2019
 ** objdump.h
 ** File description:
-** alexandre.frydman@epitech.eu
 */
 
 #ifndef OBJDUMP_H_
