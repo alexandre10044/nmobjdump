@@ -2,7 +2,6 @@
 ** EPITECH PROJECT, 2019
 ** print.c
 ** File description:
-** alexandre.frydman@epitech.eu
 */
 
 #include <stdio.h>
