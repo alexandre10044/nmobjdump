@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2019
 ** get.c
 ** File description:
-** alexandre.frydman@epitech.eu
+** 
 */
 
 #include <unistd.h>
