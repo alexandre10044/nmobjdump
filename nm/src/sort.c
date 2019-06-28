@@ -2,7 +2,7 @@
 ** EPITECH PROJECT, 2019
 ** sort.c
 ** File description:
-** alexandre.frydman@epitech.eu
+** 
 */
 
 #include <unistd.h>
